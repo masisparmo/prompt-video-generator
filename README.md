@@ -4,6 +4,8 @@
 
 **Panduan & Penghasil Prompt Veo** adalah sebuah aplikasi web interaktif yang dirancang untuk membantu para kreator konten, pemasar, dan siapa saja yang ingin membuat video pendek menggunakan model AI generatif seperti Google Veo.
 
+Akses aplikasi di [https://promptgenerator.isparmo.com/](https://promptgenerator.isparmo.com/)
+
 Tujuan utama aplikasi ini adalah untuk menyederhanakan proses _prompt engineering_ (rekayasa prompt). Aplikasi ini mampu mengubah ide sederhana dari pengguna menjadi sebuah _prompt_ yang detail, terstruktur, dan efektif, dengan fokus pada penciptaan konten yang memiliki nuansa khas Indonesia. Dengan bantuan asisten AI (Gemini), proses kreatif menjadi lebih cepat, mudah, dan inspiratif.
 
 ## **2\. Penjelasan Fitur**
